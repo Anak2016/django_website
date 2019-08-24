@@ -1,0 +1,2 @@
+> figure out why url path to admin works when I removed it from the url path
+    : This should give clues to why polls/ url does not show "hello world"
